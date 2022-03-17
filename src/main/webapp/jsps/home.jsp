@@ -10,8 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to Landmark Software Solutions, Global Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions and serving over 500 millions clients.
-	We also offer Training for DevOps with Linux and Cloud Engineers for best performance. Our students are the best you'll ever see.</h1>
+<h1 align="center">We are developing and supporting quality Software Solutions and serving over 500 millions clients. 
+	We also offer Training for DevOps with Linux and Cloud Engineers for best performance. Our students are the best you'll ever see. All class 27 will be hired.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
